@@ -33,7 +33,7 @@ A fun fake Roblox pet generator made to prank friends — styled to look real, b
 ## 📦 How to Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/garden-pet-generator.git
+git clone https://github.com/marumarumaru/garden-pet-generator.git
 cd garden-pet-generator
 npm install
 npm run dev
