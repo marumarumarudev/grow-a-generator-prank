@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Grow A Garen Pet Generator",
+  title: "Grow A Garden Pet Generator",
   description: "Free Grow a Garden Pets",
 };
 
